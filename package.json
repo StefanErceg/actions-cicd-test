@@ -1,5 +1,5 @@
 {
-	"homepage": "https://stefanerceg.github.io/actions-cicd-test",
+	"homepage": "https://stefanerceg.github.io/actions-cicd-test/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
